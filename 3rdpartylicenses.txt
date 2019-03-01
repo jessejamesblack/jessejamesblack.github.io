@@ -274,6 +274,9 @@ Apache-2.0
 angular2-flash-messages
 MIT
 
+angularfire2/auth
+MIT
+
 angularfire2/firestore
 MIT
 
